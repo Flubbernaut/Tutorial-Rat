@@ -36,4 +36,4 @@ client.events = new Discord.Collection();
 //     }
 // });
 
-client.login ('ODY5MzcwNzg2OTcxMDA0OTg5.YP9Oow.wMOH2od5V5LQEZz6uAH17AJQx6Y');
+client.login ('bot token here');
